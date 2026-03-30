@@ -8,7 +8,7 @@ Click below to view my complete CV:
  [View CV](README.md)
 
 ## Mock Interview Video
- [Watch Video](videos/mock-interview.mp4)
+ [Watch Video](video/Video.mov)
 
 ## Featured Project
 - ItemHive Java Marketplace System  
