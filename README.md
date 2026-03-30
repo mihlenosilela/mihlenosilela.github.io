@@ -1,5 +1,4 @@
 # **Mihle Nosilela**
-**Information Technology | Applications Development | Software Development**
 
 📍 Woodstock, Cape Town  
 📧 240865537@mycput.ac.za  
