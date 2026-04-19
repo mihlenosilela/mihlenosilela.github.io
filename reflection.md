@@ -1,4 +1,4 @@
-# Reflection: Coding My CV Using Markdown (STAR Method)
+# Reflection of coding my CV using Markdown 
 
 ## Situation
 As part of Project Presentation 3, I was required to convert my traditional
