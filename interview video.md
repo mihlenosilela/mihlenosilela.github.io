@@ -1,7 +1,8 @@
 # Mock Interview Video
 
 <video controls width="700">
-  assets/mock-interview.mp4
+ <source src="assets
+  assets/Video.mov.mp4
 </video>
 
 ---
