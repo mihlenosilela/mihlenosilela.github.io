@@ -1,22 +1,15 @@
-# Welcome to My Portfolio
+# Digital Portfolio – Project Presentation 3
 
-Hi, I'm **Mihle Nosilela** — a passionate Information Technology student specialising in Applications Development at CPUT.
+**Student:** Mihle Nosilela  
+**Qualification:** Diploma in ICT (Applications Development)  
+**Institution:** CPUT  
 
-## View My CV
-Click below to view my complete CV:
+## Portfolio Includes:
+- CV coded in Markdown
+- Academic and practical projects
+- Mock interview video
+- STAR reflections
+- GitHub Pages deployment
 
- [View CV](README.md)
-
-## Mock Interview Video
- [Watch Video](video/Video.mov)
-
-## Featured Project
-- ItemHive Java Marketplace System  
-  https://github.com/mihlenosilela/ItemHive-App
-- Payroll system
-  
-
-## Contact
--  240865537@mycput.ac.za  
--  Cape Town, South Africa
-- 0787016418
+## Live Portfolio
+https://mihle
