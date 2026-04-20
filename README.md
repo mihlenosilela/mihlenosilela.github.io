@@ -1,44 +1,66 @@
-# Digital Portfolio – Project Presentation 3
+---
+layout: home
+title: Home
+---
 
-**Student:** Mihle Nosilela
+# Hi, I'm Mihle Nosilela   
 
-**Qualification:** Diploma in ICT (Applications Development)
-
-**Institution:** Cape Peninsula University of Technology (CPUT)
+Welcome to my digital portfolio. I’m passionate about building practical software solutions, learning modern technologies, and continuously improving my development skills.
 
 ---
 
-## Portfolio Contents
+## About Me
+I am an Applications Development student specializing in software development, database systems, and system analysis. I enjoy turning ideas into real-world applications and exploring technologies such as **Java, web development, and machine learning**.
 
-* CV coded using Markdown
-* Academic and practical projects
-* Mock interview video
-* STAR-based reflections
-* GitHub Pages deployment
-
----
-
-## Live Portfolio
-
- [View My Portfolio](https://github.com/mihlenosilela/mihlenosilela.github.io))
+-  Strong interest in full-stack development  
+-  Passionate about data-driven systems  
+-  Currently exploring Machine Learning  
+-  Focused on building real-world projects  
 
 ---
 
-## About This Portfolio
+##  Technical Skills
+**Programming Languages:**
+- Java
+- JavaScript
+- HTML & CSS
 
-This digital portfolio showcases my technical skills, academic projects, and professional development as an Applications Development student. It demonstrates my ability to use GitHub, Markdown, and web-based tools to present information in a structured and professional manner.
+**Tools & Technologies:**
+- Git & GitHub
+- NetBeans / IntelliJ IDEA
+- MySQL / JDBC
+- Figma (UI/UX Design)
 
 ---
 
-## Technologies Used
 
-* Markdown
-* Git & GitHub
-* GitHub Pages
-* Java
+## 🎥 Mock Interview
+Watch my recorded interview where I demonstrate communication skills, confidence, and technical understanding.
+
+👉 [Click here to view video](#) *(replace with your actual link)*
 
 ---
 
-## Contact
+## 📄 CV
+Download my latest CV below:
 
-Email: [240865537@mycput.ac.za](mailto:240865537@mycput.ac.za)
+👉 [Download CV](#) *(replace with GitHub file or PDF link)*
+
+---
+
+## Goals
+- Become a full-stack developer
+- Improve system design and architecture skills
+- Gain industry internship experience
+- Build AI-integrated applications
+
+---
+
+## Contact Me
+- 📧 Email: 240865537@mycput.ac.za  
+- 💼 GitHub: [Your GitHub Link](#)  
+- 🌐 Portfolio: https://mihle.github.io *(update if needed)*  
+
+---
+
+> “Code is not just written — it is engineered with purpose.”
