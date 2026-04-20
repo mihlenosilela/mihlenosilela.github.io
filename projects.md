@@ -1,41 +1,44 @@
 # Academic & Practical Projects
 
 ## ItemHive – Inventory Management System
-ItemHive is a Java-based inventory management system designed to assist
-small businesses with tracking stock levels and product information.
+
+ItemHive is a Java-based inventory management system developed to help small businesses efficiently track stock levels and manage product information. The system focuses on simplicity, usability, and structured data handling.
 
 **Key Features:**
-- Product registration and inventory tracking
-- Stock level monitoring
-- Object-Oriented design using Java
-- File handling for persistent data storage
 
-**Skills Applied:** Java, OOP, Data Structures, Problem Solving
+* Product registration and inventory tracking
+* Real-time stock level monitoring
+* Object-Oriented design principles in Java
+* File handling for persistent data storage
+
+**Skills Applied:** Java, Object-Oriented Programming (OOP), Data Structures, Problem Solving
 
 ---
 
 ## Payroll Management System
-A payroll system developed to automate employee salary calculations
-and record keeping.
+
+This project is a payroll system designed to automate employee salary processing and improve accuracy in financial record keeping. It demonstrates structured programming and logical problem-solving.
 
 **Key Features:**
-- Employee data management
-- Salary and deduction calculations
-- Structured program logic using Java
-- Data validation and reporting
 
-**Skills Applied:** Java, Logical Design, File Handling
+* Employee data management
+* Salary calculation with deductions
+* Structured program logic using Java
+* Input validation and basic reporting
+
+**Skills Applied:** Java, Logical Design, File Handling, Problem Solving
 
 ---
 
 ## Residence Management System
-A system developed to manage student accommodation processes.
+
+The Residence Management System was developed to manage student accommodation processes efficiently. It focuses on organizing student data and simplifying room allocation.
 
 **Key Features:**
-- Student registration
-- Room allocation
-- Record management
-- Database and file handling concepts
 
-**Skills Applied:** Java, OOP, SQL fundamentals
-``
+* Student registration and record management
+* Room allocation functionality
+* Data storage and retrieval
+* Introduction to database and file handling concepts
+
+**Skills Applied:** Java, Object-Oriented Programming (OOP), SQL Fundamentals, Data Management
