@@ -1,7 +1,9 @@
 # Digital Portfolio – Project Presentation 3
 
 **Student:** Mihle Nosilela
+
 **Qualification:** Diploma in ICT (Applications Development)
+
 **Institution:** Cape Peninsula University of Technology (CPUT)
 
 ---
