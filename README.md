@@ -57,8 +57,8 @@ Download my latest CV below:
 ## Contact Me
 - 📧 Email: 240865537@mycput.ac.za  
 - 💼 GitHub: https://github.com/mihlenosilela
-- 🌐 Portfolio: https://mihle.github.io  
+- 🌐 Portfolio: https://github.com/mihlenosilela/mihlenosilela.github.io
 
 ---
 
-> “Code is not just written — it is engineered with purpose.”
+
