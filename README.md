@@ -1,7 +1,4 @@
----
-layout: home
-title: Home
----
+
 
 # Hi, I'm Mihle Nosilela   
 
@@ -37,14 +34,15 @@ I am an Applications Development student specializing in software development, d
 ## 🎥 Mock Interview
 Watch my recorded interview where I demonstrate communication skills, confidence, and technical understanding.
 
-👉 [Click here to view video](#) *(video/Video.mp4)*
+ [Click here to view video](video/Video.mp4)
+
 
 ---
 
 ## 📄 CV
 Download my latest CV below:
 
-👉 [Download CV](#) *(https://github.com/mihlenosilela/mihlenosilela.github.io/blob/main/index.md)*
+ [Download CV](https://github.com/mihlenosilela/mihlenosilela.github.io/blob/main/index.md)
 
 ---
 
@@ -58,8 +56,8 @@ Download my latest CV below:
 
 ## Contact Me
 - 📧 Email: 240865537@mycput.ac.za  
-- 💼 GitHub: [Your GitHub Link](#)  
-- 🌐 Portfolio: https://mihle.github.io *(update if needed)*  
+- 💼 GitHub: https://github.com/mihlenosilela
+- 🌐 Portfolio: https://mihle.github.io  
 
 ---
 
