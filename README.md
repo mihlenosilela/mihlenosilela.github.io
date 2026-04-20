@@ -20,7 +20,7 @@
 
 ## Live Portfolio
 
- [View My Portfolio]([https://mihlenosilela/mihlenosilela.github.io/](https://github.com/mihlenosilela/mihlenosilela.github.io))
+ [View My Portfolio](https://github.com/mihlenosilela/mihlenosilela.github.io))
 
 ---
 
