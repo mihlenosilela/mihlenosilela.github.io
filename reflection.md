@@ -3,7 +3,7 @@
 ## Situation
 As part of Project Presentation 3, I was required to convert my traditional
 Word-based CV into a digital CV coded entirely using GitHub Flavoured Markdown.
-This was my first time creating a professional document using Markdown & I was not really farmiliar with github.
+This project introduced me to GitHub Flavoured Markdown and version control using GitHub. It was my first experience creating a professional document in a developer-focused environment, which initially felt challenging but rewarding at the same time.
 
 ## Task
 My task was to learn Markdown syntax and apply it effectively to design a
@@ -17,7 +17,6 @@ unnecessary formatting clutter from my Word document. I tested readability
 by previewing the Markdown locally and on GitHub.
 
 ## Result
-The final Markdown CV is clean, professional, and easy to navigate.
-This experience improved my technical documentation skills and helped me
+The final CV is clean, structured, and easy to navigate. This project enhanced my technical documentation skills and gave me practical experience using GitHub as a professional tool and helped me
 understand how developers communicate professionally using simple, structured
 formats. I am now confident in using Markdown for documentation and portfolios and I can't wait to use it more.
