@@ -42,7 +42,7 @@ Watch my recorded interview where I demonstrate communication skills, confidence
 ## CV
 Download my latest CV below:
 
- [Download CV](https://github.com/mihlenosilela/mihlenosilela.github.io/blob/main/index.md)
+[ [Download CV](https://img.youtube.com/vi/abc123xyz/0.jpg)](https://github.com/mihlenosilela/mihlenosilela.github.io/blob/main/index.md)
 
 ---
 
