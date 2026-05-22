@@ -34,8 +34,7 @@ I am an Applications Development student specializing in software development, d
 ## Mock Interview
 Watch my recorded interview where I demonstrate communication skills, confidence, and technical understanding.
 
- [Click here to view video](https://youtube.com/shorts/m-DMHiJB37A)
-
+[![Watch the video](https://img.youtube.com/vi/m-DMHiJB37A/0.jpg)](https://www.youtube.com/watch?v=m-DMHiJB37A)
 
 ---
 
