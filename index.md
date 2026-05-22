@@ -63,6 +63,6 @@ See detailed project descriptions here → [Projects](projects.md)
 PI – Law Enforcement  
 📞 084 952 1698  
 
-**Thozama Plaatjie**  
+**Likho Mathika**  
 Inspector  
-📞 081 252 8761  
+📞 071 869 8849  
