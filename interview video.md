@@ -4,7 +4,7 @@ This video demonstrates my communication skills, confidence, and readiness for p
 
 ## Watch My Interview
 
-[![Watch My Interview](video/Video.mp4)
+[![Watch My Interview](https://img.youtube.com/vi/m-DMHiJB37A/0.jpg)](https://www.youtube.com/watch?v=m-DMHiJB37A)
 
 > *Note: If the video does not load, please use the link above to view it.*
 
