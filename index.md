@@ -5,7 +5,8 @@
 📞 078 701 6418  
 
 ---
-
+## WIL Project: Agile Portfolio
+My Agile evidence and reflections from the Item Hive project: [View the WIL Agile Portfolio](/wil-agile-portfolio)
 ## Career Objective
 Motivated third-year Information and Communication Technology student
 specialising in Applications Development, seeking Work Integrated Learning
