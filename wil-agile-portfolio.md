@@ -17,9 +17,9 @@ This page continues my first-semester portfolio. It presents the Agile evidence 
 
 | Link | Where |
 |---|---|
-| Live system | [Item Hive](PASTE-LIVE-SYSTEM-URL) |
-| Source code | [GitHub repository](PASTE-REPOSITORY-URL) |
-| Task board | [Item Hive on Trello](PASTE-PUBLIC-TRELLO-URL) |
+| Live system | [Item Hive](https://item-hive-yi8j.vercel.app/) |
+| Source code | [GitHub repository](https://github.com/mihlenosilela/Item-Hive.git) |
+| Task board | [Item Hive on Trello](https://trello.com/b/jMjTyQX1/item-hive-%F0%9F%9B%92) |
 
 ## The five portfolio sections
 
