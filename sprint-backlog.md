@@ -35,7 +35,7 @@ A sprint backlog is the actionable plan of the work the team commits to in one s
 
 ### Later sprints on the board
 
-Sprint 12: Regression (Day 2), Acceptance (Day 3), Deploy (Day 4). Sprint 13: Documentation (Day 1). The system has since been tested and deployed.
+Sprint 12: Regression (Day 2), Acceptance (Day 3), Deploy (Day 4). Sprint 13: Documentation (Day 1). The system has since been tested and deployed. After our presentation on 27 October, the next changes (the department’s red colour and a timed 3-minute presentation) start on 28 October.
 
 ![Trello board showing Sprint 11 cards in progress, Sprint 12 and 13 cards, and completed cards from Sprints 2 and 3](/images/trello-board-sprint.png)
 *Figure 4: Sprint 11 in progress, Sprint 12 and 13 planned in the backlog, and completed cards from Sprints 2 (Order creation) and 3 (Authentication).*
