@@ -34,6 +34,11 @@ A user story is a short description of a feature written from the user’s point
 | 16 | As a customer, I want a smooth payment process so that I can successfully pay for my order. | Sprint 5, Day 3: Payment integration | In the 21 September logbook |
 | 17 | As a developer, I want the backend code to work with the frontend, and to debug and integrate the backend classes, so that the system works without faults. | Sprint 5, Day 4 and Sprint 6, Days 1 to 4 | In the 21 and 28 September logbooks |
 | 18 | As a developer, I want all data from the frontend captured in the database, and the backend deployed, so that the frontend can interact with it. | Sprint 6, Days 2 and 3 | In the 28 September logbook |
+| 19 | As a user, I need secure authentication and authorization so that my profile is protected at all times. | Sprint 7, Day 1: Secure authentication (completed), JWT authentication | Completed |
+| 20 | As a user, I need an email verification page to make sure my email is valid so that I get all feedback and notifications about my orders. | Sprint 7, Day 2 | In the 5 October logbook |
+| 21 | As a customer, I need a reset password option so that I can regain access to my profile if I forget my password. | Sprint 6, Day 3: Forgot password page | Completed |
+| 22 | As a developer, I need to make sure the user logs in before they can purchase any item. | Sprint 7, Day 4: Protected routes | In the 5 October logbook |
+| 23 | As a department, we want the system to use our department colour, red, so that it aligns with our identity. | Lecturer feedback, 27 October | Planned for 28 October |
 
 ### One story broken into tasks (Sprint 1, Day 2: Core product catalog)
 
