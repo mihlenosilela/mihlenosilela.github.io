@@ -44,6 +44,7 @@ The product backlog is the prioritised list of all the work the product needs. I
 | Must | Acceptance testing (Sprint 12, Day 3) | All | Confirms the system meets requirements |
 | Must | Deploy (Sprint 12, Day 4) | Story 4 | The system must be live |
 | Must | Documentation (Sprint 13, Day 1) | All | Required for handover and assessment |
+| Must | Final deployment and handover (Sprint 16, Day 4) | Story 24 | Confirms the system is stable and the project can be closed |
 | Should | Apply the department’s red colour to the system | Story 23 | Lecturer feedback on 27 October; aligns with the department’s identity |
 | Must | Shorten and rehearse the presentation to fit 3 minutes | n/a | Lecturer feedback on 27 October |
 

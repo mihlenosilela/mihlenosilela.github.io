@@ -32,7 +32,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 | Fri 16 Oct | Reviewed the week’s deployment and debugging progress and identified the verification still needed. | Prepare the backend for integration with the frontend and present our work. | Repeating the same work was time-consuming, and keeping integration consistent was difficult. |
 | Tue 20 Oct | Our lecturer told us to prepare a presentation for the Bellville campus. | Plan and start the PowerPoint slides for the presentation. | None recorded. |
 | 21 to 26 Oct | Worked as a team on the PowerPoint presentation slides. | Finish the slides and be ready to present to our lecturer. | None recorded. |
-| Tue 27 Oct | Presented our system to our lecturer and received feedback. | Start the changes on 28 October: add red (our department colour) to the system, and shorten and rehearse the presentation to fit the time limit. | We are only given 3 minutes, so our presentation timing needs work. |
+| Tue 27 Oct | Presented our ItemHive business model pitch and system to our lecturer and received feedback. | Start the changes on 28 October: add red (our department colour) to the system, and shorten and rehearse the presentation to fit the time limit. | We are only given 3 minutes, so our presentation timing needs work. |
 
 ### Weekly walkthroughs
 
@@ -62,7 +62,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 ### Original logbook pages
 
-<details>
+<details markdown="1">
 <summary>28 to 31 July logbook (4 pages)</summary>
 
 ![28 to 31 July logbook page 1](/images/logbook-july-p1.png)
@@ -72,7 +72,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>4 to 7 August logbook (4 pages)</summary>
 
 ![4 to 7 August logbook page 1](/images/logbook-august-p1.png)
@@ -82,7 +82,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>14 September logbook (task board and walkthrough)</summary>
 
 ![14 September logbook page 1](/images/logbook-sep14-1.png)
@@ -91,7 +91,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>21 September logbook (task board and walkthrough)</summary>
 
 ![21 September logbook page 1](/images/logbook-sep21-1.png)
@@ -100,7 +100,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>28 September logbook (task board and walkthrough)</summary>
 
 ![28 September logbook page 1](/images/logbook-sep28-1.png)
@@ -109,7 +109,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>5 October logbook (task board and walkthrough)</summary>
 
 ![5 October logbook page 1](/images/logbook-oct5-1.png)
@@ -118,7 +118,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>12 October logbook (13 to 16 October stand-ups)</summary>
 
 ![12 October logbook page 1](/images/logbook-oct12-1.png)
@@ -127,7 +127,7 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>19 October logbook (task board and walkthrough)</summary>
 
 ![19 October logbook page 1](/images/logbook-oct19-1.png)

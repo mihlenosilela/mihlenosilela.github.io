@@ -33,6 +33,21 @@ A sprint backlog is the actionable plan of the work the team commits to in one s
 | Related work (October) | Render redeployment and Spring Security debugging; analytics widgets tested and deployed; frontend on Vercel, backend on Render |
 | Team | All five members assigned |
 
+### Final sprint: Sprint 16, Day 4 (Final deployment and handover)
+
+| Task | Owner |
+|---|---|
+| Production health check | Siphokuhle Nyana |
+| Final fixes | Sinobawo Nkomo |
+| Complete documentation | Olwethu Mtwazi |
+| Project closure report | Athini Ngquke |
+| Handover and celebration | Mihle Nosilela |
+
+The card’s user story is written for a QA Engineer: confirm the final version is stable and that documentation and handover are complete, so the project can be closed and supported in the future. All five tasks are complete.
+
+![Trello card Sprint 16 Day 4 Final deployment and handover](/images/trello-card-sprint16.png)
+*Figure 5: Trello card “Sprint 16: Day 4 - Final deployment & handover”, 100% complete.*
+
 ### Later sprints on the board
 
 Sprint 12: Regression (Day 2), Acceptance (Day 3), Deploy (Day 4). Sprint 13: Documentation (Day 1). The system has since been tested and deployed. After our presentation on 27 October, the next changes (the department’s red colour and a timed 3-minute presentation) start on 28 October.

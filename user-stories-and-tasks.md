@@ -39,6 +39,9 @@ A user story is a short description of a feature written from the user’s point
 | 21 | As a customer, I need a reset password option so that I can regain access to my profile if I forget my password. | Sprint 6, Day 3: Forgot password page | Completed |
 | 22 | As a developer, I need to make sure the user logs in before they can purchase any item. | Sprint 7, Day 4: Protected routes | In the 5 October logbook |
 | 23 | As a department, we want the system to use our department colour, red, so that it aligns with our identity. | Lecturer feedback, 27 October | Planned for 28 October |
+| 24 | As a QA Engineer, I want to confirm that the final version of the system is stable and that all project documentation and handover requirements are complete, so that the project can be successfully closed and supported in the future. | Sprint 16, Day 4: Final deployment and handover | Completed |
+| 25 | As a student, I want to pay by card or EFT and receive an email confirmation, so that I can buy safely and have proof of purchase. | From our business pitch; Sprint 5 payment and email cards | Described in the pitch |
+| 26 | As a student, I want free residence delivery or PAXI store-to-store delivery and a 20% student discount, so that buying ICT gear is easy and affordable. | From our business pitch | Described in the pitch |
 
 ### One story broken into tasks (Sprint 1, Day 2: Core product catalog)
 

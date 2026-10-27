@@ -12,12 +12,12 @@ An Agile team charter is a living, shared agreement that sets out a team’s pur
 
 ## Evidence
 
-<!-- CHECK: confirm every line below matches how your team really worked, and confirm each member's WIL role. -->
+<!-- CHECK: confirm every line below matches how your team really worked, and confirm each member's WIL role (including Ricardo's). -->
 
 | Element | Our charter |
 |---|---|
-| **Purpose** | Design, build, test and deploy the Item Hive system on time as a team, using Agile Scrum. |
-| **Team** | Siphokuhle Nyana (Team Leader) · Athini Ngquke (Researcher and Presenter) · Sinobawo Nkomo (Designer) · Olwethu Mtwazi (Designer) · Mihle Nosilela (Editor and Frontend Designer) |
+| **Purpose** | Design, build, test and deploy ItemHive, an online shop for ICT-branded student gear, on time as a team using Agile Scrum. |
+| **Team** | Siphokuhle Nyana (Team Leader) · Athini Ngquke (Researcher and Presenter) · Sinobawo Nkomo (Designer) · Olwethu Mtwazi (Designer) · Mihle Nosilela (Editor and Frontend Designer) · Ricardo Mukwevho (Team Member) |
 | **Values** | Respect, accountability, honest communication, and delivering what we commit to. |
 | **Working agreements** | Daily stand-up where each member answers three questions: what I completed, what I plan next, and what blocks me. Every task is a Trello card with a checklist and named owners. A card is completed only when its checklist is done. Code is pushed to one GitHub repository and shared through peer programming. Work is presented to the supervisor and feedback is applied by the whole team. |
 | **Communication** | Daily stand-ups and quick team-chat updates; Trello for task status; meetings for sprint planning, supervisor presentations and the weekly walkthrough. |
@@ -27,7 +27,7 @@ An Agile team charter is a living, shared agreement that sets out a team’s pur
 
 <div class="reflection" markdown="1">
 
-**What.** As a team of five we agreed on roles and on how we would work. My role was Editor and Frontend Designer, so I was responsible for the quality of our written work and for turning the approved design into the user interface.
+**What.** As a team of six we agreed on roles and on how we would work. My role was Editor and Frontend Designer, so I was responsible for the quality of our written work and for turning the approved design into the user interface.
 
 **So what.** The agreement that helped most was the daily stand-up, because it made every member say what was finished and what was blocking them, so problems did not stay hidden. The agreement we followed least well was updating Trello on the day the work was done: several cards show activity dates later than the work itself. This taught me that a charter reduces friction only when it is applied daily. Some members also did role work that was not on the board, which showed me that roles in a charter need to match the cards on the board.
 
