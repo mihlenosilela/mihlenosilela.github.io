@@ -35,7 +35,7 @@ This page continues my first-semester portfolio. It presents the Agile evidence 
 
 | Step | What I did |
 |---|---|
-| **Collect** | I gathered the artefacts from the project: our team agreements, the Trello board and cards, the user stories, and twelve daily stand-up entries plus weekly task boards and walkthroughs from July to October in our Agile logbooks. |
+| **Collect** | I gathered the artefacts from the project: our team agreements, the Trello board and cards, the user stories, and fifteen stand-up entries plus weekly task boards and walkthroughs from July to October in our Agile logbooks. |
 | **Select** | I chose artefacts that show the Agile practice *in action* and not only the plan: a task card with owners and a completed checklist (shows tasks from a user story), the board (shows the backlog and sprints), and the original logbook pages (show the daily record). |
 | **Reflect** | Every section ends with a structured reflection: **What** happened, **So what** it taught me, **Now what** I would change, and **Connect** to the next section. |
 | **Connect** | The final section on this page links the five artefact groups into one story. |
@@ -52,7 +52,7 @@ This page continues my first-semester portfolio. It presents the Agile evidence 
 
 ## Connect: putting it together
 
-Our charter set how we would work: daily stand-ups, task cards with named owners, shared code in GitHub and regular presentations to our supervisor. The user stories turned what the shop, the admin and the supervisor needed into tasks that each member could own. We prioritised those stories in the product backlog and delivered them in daily sprint cards on Trello, from project setup on 13 July through the catalogue, authentication and order creation to regression testing, acceptance, deployment and documentation. The logbook recorded how it really went, including the days we waited for supervisor feedback and the times we updated the board late.
+Our charter set how we would work: daily stand-ups, task cards with named owners, shared code in GitHub and regular presentations to our supervisor. The user stories turned what the shop, the admin and the supervisor needed into tasks that each member could own. We prioritised those stories in the product backlog and delivered them in daily sprint cards on Trello, from project setup on 13 July through the catalogue, authentication and order creation to regression testing, acceptance, deployment and documentation. The logbook recorded how it really went, including the days we waited for supervisor feedback and the times we updated the board late. On 27 October we presented to our lecturer, and her feedback (keep to 3 minutes and add our department’s red colour) became the next items in our backlog, which shows the Agile cycle continuing.
 
 Across the five sections, one pattern repeats: **Agile only helps when it is applied every day, not recorded afterwards.** The stand-up rule in the charter produced the logbook entries, the logbook showed me where feedback blocked us, and the late board updates showed me that a backlog and sprint board are only reliable if they are updated as the work changes. As Editor and Frontend Designer, I grew in turning a prototype into a working interface, asking for clear feedback, writing accurate documentation and keeping honest records. The system is deployed and working, and I will take these habits into my next project and into industry.
 
