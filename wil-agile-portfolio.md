@@ -11,7 +11,7 @@ This page continues my first-semester portfolio. It presents the Agile evidence 
 
 | Link | Where |
 |---|---|
-| Live system | [Item Hive]([PASTE-LIVE-SYSTEM-URL](https://item-hive-yi8j.vercel.app/)) |
+| Live system | [Item Hive](https://item-hive-yi8j.vercel.app/) |
 | Source code | [GitHub repository](PASTE-REPOSITORY-URL) |
 | Task board | [Item Hive on Trello](PASTE-PUBLIC-TRELLO-URL) |
 
