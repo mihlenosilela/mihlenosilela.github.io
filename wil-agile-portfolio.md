@@ -17,9 +17,9 @@ This page continues my first-semester portfolio. It presents the Agile evidence 
 
 | Link | Where |
 |---|---|
-| Live system | [Item Hive](PASTE-LIVE-SYSTEM-URL) |
-| Source code | [GitHub repository](PASTE-REPOSITORY-URL) |
-| Task board | [Item Hive on Trello](PASTE-PUBLIC-TRELLO-URL) |
+| Live system | [Item Hive](https://item-hive-yi8j.vercel.app/) |
+| Source code | [GitHub repository](https://github.com/mihlenosilela/Item-Hive.git) |
+| Task board | [Item Hive on Trello](https://trello.com/b/jMjTyQX1/item-hive-%F0%9F%9B%92) |
 
 ## The five portfolio sections
 
@@ -56,7 +56,7 @@ On 27 October our team presented the **ItemHive business model pitch** to our le
 
 The pitch has six slides and speaker notes timed at about 175 seconds, which is very close to the 3-minute limit. The lecturer’s feedback was to improve our presentation timing and to add red, our department colour, to the system.
 
-[Download the pitch (PowerPoint)](/assets/ItemHive_business_pitch.pptx)
+[Download the pitch (PowerPoint)](/images/ItemHive_business_pitch.pptx)
 
 <details markdown="1">
 <summary>View the six slides</summary>
