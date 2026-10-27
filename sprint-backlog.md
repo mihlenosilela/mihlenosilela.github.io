@@ -31,7 +31,7 @@ A sprint backlog is the actionable plan of the work the team commits to in one s
 | Day 4 | Deploy: purchase testing, debugging, UX improvements, demonstration and deployment |
 | Next | Sprint 12, Day 1: End-to-end testing |
 | Related work (October) | Render redeployment and Spring Security debugging; analytics widgets tested and deployed; frontend on Vercel, backend on Render |
-| Team | All five members assigned |
+| Team | All six members assigned |
 
 ### Final sprint: Sprint 16, Day 4 (Final deployment and handover)
 
@@ -46,14 +46,14 @@ A sprint backlog is the actionable plan of the work the team commits to in one s
 The card’s user story is written for a QA Engineer: confirm the final version is stable and that documentation and handover are complete, so the project can be closed and supported in the future. All five tasks are complete.
 
 ![Trello card Sprint 16 Day 4 Final deployment and handover](/images/trello-card-sprint16.png)
-*Figure 5: Trello card “Sprint 16: Day 4 - Final deployment & handover”, 100% complete.*
+*Figure 4: Trello card “Sprint 16: Day 4 - Final deployment & handover”, 100% complete.*
 
 ### Later sprints on the board
 
 Sprint 12: Regression (Day 2), Acceptance (Day 3), Deploy (Day 4). Sprint 13: Documentation (Day 1). The system has since been tested and deployed. After our presentation on 27 October, the next changes (the department’s red colour and a timed 3-minute presentation) start on 28 October.
 
 ![Trello board showing Sprint 11 cards in progress, Sprint 12 and 13 cards, and completed cards from Sprints 2 and 3](/images/trello-board-sprint.png)
-*Figure 4: Sprint 11 in progress, Sprint 12 and 13 planned in the backlog, and completed cards from Sprints 2 (Order creation) and 3 (Authentication).*
+*Figure 5: Sprint 11 in progress, Sprint 12 and 13 planned in the backlog, and completed cards from Sprints 2 (Order creation) and 3 (Authentication).*
 
 ## Reflection
 
