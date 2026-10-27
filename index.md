@@ -6,26 +6,26 @@ title: "Mihle Nosilela"
 {% include wil-style.html %}
 
 <style>
-.home-hero{background:linear-gradient(135deg,#14213d 0%,#1f3a6b 100%);color:#fff;border-radius:20px;padding:44px 36px;margin:10px 0 24px;box-shadow:0 10px 30px rgba(20,33,61,.25)}
-.home-hero .eyebrow{color:#ffb26b;font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:.78rem;margin:0}
-.home-hero h1{color:#fff;font-size:2.8rem;margin:.15em 0 .35em}
-.home-hero p{color:#d6dbe8;max-width:68ch;margin:0 0 16px}
-.home-hero .chips a{color:#fff}
+.home-hero{background:linear-gradient(135deg,#f2f8ff 0%,#d6e8ff 100%);color:var(--navy);border:1px solid #bcd7f7;border-radius:20px;padding:44px 36px;margin:10px 0 24px;box-shadow:0 8px 24px rgba(37,99,235,.12)}
+.home-hero .eyebrow{color:#c2570a;font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:.78rem;margin:0}
+.home-hero h1{color:var(--navy);font-size:2.8rem;margin:.15em 0 .35em;border-bottom:0!important}
+.home-hero p{color:#334155;max-width:68ch;margin:0 0 16px}
+.home-hero .chips a{color:var(--navy)}
 .btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
 .btn{display:inline-block;padding:10px 20px;border-radius:999px;font-weight:600;font-size:15px;background:var(--orange);color:#fff}
-.btn:hover{background:#fff;color:var(--navy);text-decoration:none}
-.btn.ghost{background:transparent;border:1px solid rgba(255,255,255,.5)}
+.btn:hover{background:var(--navy);color:#fff;text-decoration:none}
+.btn.ghost{background:#fff;border:1px solid #bcd7f7;color:var(--navy)}
 .feature{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px;background:#fff;border:1px solid var(--line);border-left:6px solid var(--orange);border-radius:14px;padding:18px 24px;margin:0 0 10px;box-shadow:0 4px 18px rgba(20,33,61,.08)}
 .feature strong{display:block;color:var(--navy);font-size:1.1rem}
 .feature span{color:var(--mute);font-size:15px}
-.feature .btn{background:var(--navy)}
-.feature .btn:hover{background:var(--orange);color:#fff}
+.feature .btn{background:#2563eb}
+.feature .btn:hover{background:var(--navy);color:#fff}
 .panel{background:#fff;border:1px solid var(--line);border-radius:14px;padding:6px 26px 16px;margin:12px 0;box-shadow:0 3px 14px rgba(20,33,61,.06)}
 .panel h3{margin-top:1.1em}
 .when{color:var(--orange);font-weight:600;font-size:14px;margin:0}
 .panel ul{margin:8px 0 0;padding-left:20px}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;margin:12px 0}
-.tile{background:#fff;border:1px solid var(--line);border-top:5px solid var(--navy);border-radius:14px;padding:14px 18px;box-shadow:0 3px 14px rgba(20,33,61,.06)}
+.tile{background:#fff;border:1px solid var(--line);border-top:5px solid #60a5fa;border-radius:14px;padding:14px 18px;box-shadow:0 3px 14px rgba(20,33,61,.06)}
 .tile b{display:block;color:var(--navy);margin-bottom:2px}
 .tile.ref{border-top-color:var(--orange)}
 .tile small{color:var(--mute);display:block}
