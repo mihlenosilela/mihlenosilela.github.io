@@ -3,6 +3,9 @@ layout: default
 title: "Sprint Backlog"
 ---
 
+{% include wil-style.html %}
+{% include wil-nav.html %}
+
 # 4. Sprint Backlog
 
 A sprint backlog is the actionable plan of the work the team commits to in one sprint, linked to a sprint goal.
@@ -39,6 +42,8 @@ Sprint 12: Regression (Day 2), Acceptance (Day 3), Deploy (Day 4). Sprint 13: Do
 
 ## Reflection
 
+<div class="reflection" markdown="1">
+
 **What.** Across the project we completed 40 cards, starting with project setup on 13 July, and each sprint was broken into daily cards with a checklist. My own sprint work was building the frontend from the approved prototype, including the login page, and editing our project documents.
 
 **So what.** Cards with named owners made the work visible, and the green “Good” label with a full checklist told us clearly when something was finished. We delivered a working, deployed system, so the process worked. The weakness was how we recorded it: the activity logs show cards moved to Completed in bulk on 6 August and checklists ticked on 5 August, later than the work, and some Sprint 11 cards still look In Progress. That made the board less useful for tracking progress during the sprint and taught me that a board is only as honest as its last update.
@@ -46,6 +51,8 @@ Sprint 12: Regression (Day 2), Acceptance (Day 3), Deploy (Day 4). Sprint 13: Do
 **Now what.** I would update cards during the daily stand-up and estimate each sprint with the whole team, leaving time for testing.
 
 **Connect.** The daily progress behind these cards is recorded in the [Agile Logbook](/agile-logbook).
+
+</div>
 
 ---
 [WIL Portfolio Home](/wil-agile-portfolio) | [Team Charter](/agile-team-charter) | [User Stories](/user-stories-and-tasks) | [Product Backlog](/product-backlog) | [Sprint Backlog](/sprint-backlog) | [Agile Logbook](/agile-logbook) | [Back to my portfolio](/)

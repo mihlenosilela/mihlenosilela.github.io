@@ -3,6 +3,9 @@ layout: default
 title: "Agile Logbook"
 ---
 
+{% include wil-style.html %}
+{% include wil-nav.html %}
+
 # 5. Agile Logbook
 
 An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
@@ -35,6 +38,8 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 | 28 July | The frontend was our key team deliverable. Bringing a new member into the team was the main blocker. |
 | 4 August | No major blockers. The main risk was applying supervisor feedback while keeping the team aligned. Some members did role work not shown on the board. |
 | 14 September | Advanced customisation and product management were completed; integration and testing, and reviewing and deploying the frontend on Vercel, were in progress. We needed supervisor feedback on the frontend. No blockers. |
+| 21 September | Sprint 5: stock validation, order emails to the customer, payment integration, and frontend and backend integration. We needed to integrate the backend and consume its endpoints from the frontend. Nobody worked outside the board. Blocker: we could not consume the API endpoints without deploying the backend. |
+| 28 September | Sprint 6: debug and integrate the backend classes, capture frontend data in the database, deploy the backend on Render, and test the integration. Nobody worked outside the board. Blocker: we could not deploy the backend without testing and debugging all the integrated backend classes. |
 | 12 October | The week focused on Render redeployment and debugging Spring Security. Key learning: check backend security and deployment together, not as unrelated tasks. Nobody worked outside the board. Blocker: Spring Security configuration and deployment settings. |
 | 19 October | Needed to get feedback on the frontend, finish deployment checks and verify that the Vercel frontend communicates with the Render backend. Remaining: frontend deployment on Vercel, backend deployment on Render and end-to-end testing. Blocker: authentication issues. |
 
@@ -76,6 +81,24 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 </details>
 
 <details>
+<summary>21 September logbook (task board and walkthrough)</summary>
+
+![21 September logbook page 1](/images/logbook-sep21-1.png)
+![21 September logbook page 2](/images/logbook-sep21-2.png)
+![21 September logbook page 3](/images/logbook-sep21-3.png)
+
+</details>
+
+<details>
+<summary>28 September logbook (task board and walkthrough)</summary>
+
+![28 September logbook page 1](/images/logbook-sep28-1.png)
+![28 September logbook page 2](/images/logbook-sep28-2.png)
+![28 September logbook page 3](/images/logbook-sep28-3.png)
+
+</details>
+
+<details>
 <summary>12 October logbook (13 to 16 October stand-ups)</summary>
 
 ![12 October logbook page 1](/images/logbook-oct12-1.png)
@@ -96,13 +119,17 @@ An Agile logbook records daily stand-ups, sprint plans and retrospective notes.
 
 ## Reflection
 
+<div class="reflection" markdown="1">
+
 **What.** I kept twelve daily stand-up entries over three weeks (28 to 31 July, 4 to 7 August and 13 to 16 October), each answering what was completed, what was planned and what blocked us. Across July to October I also recorded a weekly task board and walkthrough.
 
-**So what.** Reading across the entries, the recurring blocker was feedback. On 29 to 31 July we had presented the prototype but heard nothing back, so we started the frontend unsure whether the design would be accepted. On 4 to 6 August we received feedback and had to understand it carefully before changing the frontend and the Brand Guide. Because I worked on the frontend, I felt this directly: waiting meant risking rework. The weekly walkthrough also showed that a new team member slowed us in the first week and that some members did role work that was not on the board. In October the blocker changed from feedback to technical risk. The 13 to 16 October entries and the 12 and 19 October walkthroughs show our effort moving to Render redeployment and Spring Security, and authentication was still named as the only blocker a week later. The key lesson we wrote down was to check backend security and deployment together, not as separate jobs, and the entries show how time-consuming it was to repeat the same fixes while keeping the frontend and backend consistent. The logbook made these patterns visible, which I would not have noticed from memory alone. It also exposed a weakness in my own record keeping: not every logbook has completed daily entries, so for those weeks the task board and walkthrough are the evidence.
+**So what.** Reading across the entries, the recurring blocker was feedback. On 29 to 31 July we had presented the prototype but heard nothing back, so we started the frontend unsure whether the design would be accepted. On 4 to 6 August we received feedback and had to understand it carefully before changing the frontend and the Brand Guide. Because I worked on the frontend, I felt this directly: waiting meant risking rework. The weekly walkthrough also showed that a new team member slowed us in the first week and that some members did role work that was not on the board. The September walkthroughs show a chain of dependencies: on 21 September we could not consume the API endpoints without deploying the backend, and on 28 September we could not deploy the backend without first testing and debugging all the integrated backend classes. Each step was waiting on the one before it. In October the blocker changed from feedback to technical risk. The 13 to 16 October entries and the 12 and 19 October walkthroughs show our effort moving to Render redeployment and Spring Security, and authentication was still named as the only blocker a week later. The key lesson we wrote down was to check backend security and deployment together, not as separate jobs, and the entries show how time-consuming it was to repeat the same fixes while keeping the frontend and backend consistent. The logbook made these patterns visible, which I would not have noticed from memory alone. It also exposed a weakness in my own record keeping: not every logbook has completed daily entries, so for those weeks the task board and walkthrough are the evidence.
 
 **Now what.** I would ask for written feedback with a deadline, record the exact error messages and fixes in the logbook, complete every daily entry on the day, and write a fresh entry each day instead of repeating text from the day before, as happened on 31 July.
 
 **Connect.** The logbook shows how the charter’s stand-up rule, the backlog priorities and the sprint cards worked together, and the retrospective turns these lessons into changes for my next project.
+
+</div>
 
 ---
 [WIL Portfolio Home](/wil-agile-portfolio) | [Team Charter](/agile-team-charter) | [User Stories](/user-stories-and-tasks) | [Product Backlog](/product-backlog) | [Sprint Backlog](/sprint-backlog) | [Agile Logbook](/agile-logbook) | [Back to my portfolio](/)

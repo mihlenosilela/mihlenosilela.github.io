@@ -3,6 +3,9 @@ layout: default
 title: "Agile Team Charter"
 ---
 
+{% include wil-style.html %}
+{% include wil-nav.html %}
+
 # 1. Agile Team Charter
 
 An Agile team charter is a living, shared agreement that sets out a team’s purpose, values, working agreements and boundaries so that daily work runs with less friction.
@@ -22,6 +25,8 @@ An Agile team charter is a living, shared agreement that sets out a team’s pur
 
 ## Reflection
 
+<div class="reflection" markdown="1">
+
 **What.** As a team of five we agreed on roles and on how we would work. My role was Editor and Frontend Designer, so I was responsible for the quality of our written work and for turning the approved design into the user interface.
 
 **So what.** The agreement that helped most was the daily stand-up, because it made every member say what was finished and what was blocking them, so problems did not stay hidden. The agreement we followed least well was updating Trello on the day the work was done: several cards show activity dates later than the work itself. This taught me that a charter reduces friction only when it is applied daily. Some members also did role work that was not on the board, which showed me that roles in a charter need to match the cards on the board.
@@ -29,6 +34,8 @@ An Agile team charter is a living, shared agreement that sets out a team’s pur
 **Now what.** Next time I would review the charter at the end of every sprint and add a rule that a card is updated the moment its work changes.
 
 **Connect.** The stand-up rule produced the entries in my [Agile Logbook](/agile-logbook), and the roles shaped who owned the tasks in the [Sprint Backlog](/sprint-backlog).
+
+</div>
 
 ---
 [WIL Portfolio Home](/wil-agile-portfolio) | [Team Charter](/agile-team-charter) | [User Stories](/user-stories-and-tasks) | [Product Backlog](/product-backlog) | [Sprint Backlog](/sprint-backlog) | [Agile Logbook](/agile-logbook) | [Back to my portfolio](/)

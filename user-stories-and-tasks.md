@@ -3,6 +3,9 @@ layout: default
 title: "User Stories and Tasks"
 ---
 
+{% include wil-style.html %}
+{% include wil-nav.html %}
+
 # 2. User Stories and Tasks
 
 A user story is a short description of a feature written from the user’s point of view. Each story is broken into tasks that team members own.
@@ -26,6 +29,11 @@ A user story is a short description of a feature written from the user’s point
 | 11 | As a QA tester, I want end-to-end tests so that login, catalogue browsing, checkout and reporting work across devices and environments. | Sprint 12, Day 1: End-to-end testing | In the 19 October logbook |
 | 12 | As an admin, I want analytics widgets tested and deployed so that I can securely view store insights. | Admin testing and integration checks | In the 19 October logbook |
 | 13 | As an admin, I want the frontend tested and deployed so that I can safely view the web application. | Deploy frontend to Vercel, backend to Render | In the 19 October logbook |
+| 14 | As a customer, I want product items to have accurate stock levels so that I do not try to order items that are out of stock. | Sprint 5, Day 1: Stock validation | In the 21 September logbook |
+| 15 | As a customer, I want to receive order communication through my email so that I always have proof of purchase. | Sprint 5, Day 2: User email feedback | Completed |
+| 16 | As a customer, I want a smooth payment process so that I can successfully pay for my order. | Sprint 5, Day 3: Payment integration | In the 21 September logbook |
+| 17 | As a developer, I want the backend code to work with the frontend, and to debug and integrate the backend classes, so that the system works without faults. | Sprint 5, Day 4 and Sprint 6, Days 1 to 4 | In the 21 and 28 September logbooks |
+| 18 | As a developer, I want all data from the frontend captured in the database, and the backend deployed, so that the frontend can interact with it. | Sprint 6, Days 2 and 3 | In the 28 September logbook |
 
 ### One story broken into tasks (Sprint 1, Day 2: Core product catalog)
 
@@ -45,6 +53,8 @@ A user story is a short description of a feature written from the user’s point
 
 ## Reflection
 
+<div class="reflection" markdown="1">
+
 **What.** Our stories came from the people who use or manage the system: the customer, the admin, the developer, the QA tester and our supervisor. Each story was split into tasks with owners. In the Core product catalog story, five tasks covered the data model, sample data, API endpoints, filtering and unit tests. As Frontend Designer I worked on turning these stories into screens a customer and an admin can use.
 
 **So what.** Writing “As a customer, I want to see the price, size and picture” made me design the product page around what a customer needs in order to decide, not around what looked good. Splitting the story into five tasks let us work in parallel, but it also showed me that a story is only finished when the pieces fit together, which is why unit testing was a task of its own. Some of our early stories, such as the repository setup, were technical and did not describe value to a user, so I now see that every story should still state who benefits and why.
@@ -54,6 +64,8 @@ The stories also changed character over the project. Early ones were about plann
 **Now what.** I would add clear acceptance criteria to each story so everyone agrees what “done” means, and I would show the interface to a real user earlier.
 
 **Connect.** These stories became the items in the [Product Backlog](/product-backlog).
+
+</div>
 
 ---
 [WIL Portfolio Home](/wil-agile-portfolio) | [Team Charter](/agile-team-charter) | [User Stories](/user-stories-and-tasks) | [Product Backlog](/product-backlog) | [Sprint Backlog](/sprint-backlog) | [Agile Logbook](/agile-logbook) | [Back to my portfolio](/)

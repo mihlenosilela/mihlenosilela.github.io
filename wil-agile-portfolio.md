@@ -3,25 +3,33 @@ layout: default
 title: "WIL Project: Agile Portfolio"
 ---
 
-# WIL Project: Agile Portfolio (Item Hive)
+{% include wil-style.html %}
+{% include wil-nav.html %}
 
-**Student:** Mihle Nosilela (240865537) | **Qualification:** Diploma in ICT | **Subject:** Project Presentation 3 (PRP370S) | **Lecturer:** Prima Inderlal | **Roles:** Editor and Frontend Designer
+<div class="wil-hero">
+<p class="eyebrow">Work Integrated Learning · PRP370S Project Presentation 3</p>
+<h1>Agile Portfolio: Item Hive</h1>
+<p>My Agile evidence and reflections from our WIL project: an online shop system that my team designed, built, tested and deployed.</p>
+<div class="chips"><span>Mihle Nosilela · 240865537</span><span>Diploma in ICT</span><span>Editor and Frontend Designer</span><span>Lecturer: Prima Inderlal</span></div>
+</div>
 
 This page continues my first-semester portfolio. It presents the Agile evidence from our WIL project, **Item Hive**, an online shop system that my team designed, built, tested and deployed. Each section has **evidence** (real artefacts from the project) and a **reflection** on what the evidence shows about my learning.
 
 | Link | Where |
 |---|---|
-| Live system | [Item Hive](https://item-hive-yi8j.vercel.app/) |
-| Source code | [GitHub repository](https://github.com/mihlenosilela/Item-Hive.git) |
-| Task board | [Item Hive on Trello](https://trello.com/b/jMjTyQX1/item-hive-%F0%9F%9B%92) |
+| Live system | [Item Hive](PASTE-LIVE-SYSTEM-URL) |
+| Source code | [GitHub repository](PASTE-REPOSITORY-URL) |
+| Task board | [Item Hive on Trello](PASTE-PUBLIC-TRELLO-URL) |
 
 ## The five portfolio sections
 
-1. [Agile Team Charter](/agile-team-charter)
-2. [User Stories and Tasks](/user-stories-and-tasks)
-3. [Product Backlog](/product-backlog)
-4. [Sprint Backlog](/sprint-backlog)
-5. [Agile Logbook](/agile-logbook)
+<div class="cards">
+<a class="card" href="/agile-team-charter"><span class="n">1</span><strong>Agile Team Charter</strong><small>Purpose, roles and working agreements</small></a>
+<a class="card" href="/user-stories-and-tasks"><span class="n">2</span><strong>User Stories and Tasks</strong><small>Stories from the board, broken into owned tasks</small></a>
+<a class="card" href="/product-backlog"><span class="n">3</span><strong>Product Backlog</strong><small>The prioritised list of everything we built</small></a>
+<a class="card" href="/sprint-backlog"><span class="n">4</span><strong>Sprint Backlog</strong><small>Sprint goals, daily cards and results</small></a>
+<a class="card" href="/agile-logbook"><span class="n">5</span><strong>Agile Logbook</strong><small>Daily stand-ups, walkthroughs and retrospective</small></a>
+</div>
 
 ## How this portfolio follows Collect, Select, Reflect, Connect
 
