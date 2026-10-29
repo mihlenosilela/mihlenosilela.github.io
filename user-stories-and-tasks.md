@@ -31,7 +31,7 @@ A user story is a short description of a feature written from the user’s point
 | 13 | As an admin, I want the frontend tested and deployed so that I can safely view the web application. | Deploy frontend to Vercel, backend to Render | In the 19 October logbook |
 | 14 | As a customer, I want product items to have accurate stock levels so that I do not try to order items that are out of stock. | Sprint 5, Day 1: Stock validation | In the 21 September logbook |
 | 15 | As a customer, I want to receive order communication through my email so that I always have proof of purchase. | Sprint 5, Day 2: User email feedback | Completed |
-| 16 | As a customer, I want a smooth payment process so that I can successfully pay for my order. | Sprint 5, Day 3: Payment integration | In the 21 September logbook |
+| 16 | As a customer, I want to pay for my items seamlessly so that my order can be successfully created. | Sprint 4, Day 3: Payment integration | Completed |
 | 17 | As a developer, I want the backend code to work with the frontend, and to debug and integrate the backend classes, so that the system works without faults. | Sprint 5, Day 4 and Sprint 6, Days 1 to 4 | In the 21 and 28 September logbooks |
 | 18 | As a developer, I want all data from the frontend captured in the database, and the backend deployed, so that the frontend can interact with it. | Sprint 6, Days 2 and 3 | In the 28 September logbook |
 | 19 | As a user, I need secure authentication and authorization so that my profile is protected at all times. | Sprint 7, Day 1: Secure authentication (completed), JWT authentication | Completed |
@@ -53,17 +53,30 @@ A user story is a short description of a feature written from the user’s point
 | Price range and size filtering | Sinobawo Nkomo |
 | Unit tests for the product API | Siphokuhle Nyana |
 
+### A payment story broken into tasks (Sprint 4, Day 3: Payment integration)
+
+| Task | Owner |
+|---|---|
+| Payment gateway | Athini Ngquke |
+| Payment UI | Sinobawo Nkomo |
+| Callbacks | Olwethu Mtwazi |
+| Order creation success | Mihle Nosilela |
+| Sandbox testing | Siphokuhle Nyana |
+
+![Trello card Sprint 4 Day 3 Payment integration with five subtasks all completed](/images/trello-card-payment.png)
+*Figure 1: Trello card “Sprint 4: Day 3 - Payment integration”. The activity log shows the card was moved back to In Progress on 16 September and completed again on 24 September.*
+
 ![Trello card Sprint 1 Day 2 Core product catalog with its user story and five subtasks all completed](/images/trello-card-day2.png)
-*Figure 1: Trello card “Sprint 1: Day 2 - Core product catalog”. The user story is in the description and the five tasks each have a named owner and are 100% complete.*
+*Figure 2: Trello card “Sprint 1: Day 2 - Core product catalog”. The user story is in the description and the five tasks each have a named owner and are 100% complete.*
 
 ![Trello card Sprint 1 Day 1 Project planning and setup with user story, members and activity](/images/trello-card-day1.png)
-*Figure 2: Trello card “Sprint 1: Day 1 - Project planning & Setup”, showing the user story, all members, the “Good” label and the activity log.*
+*Figure 3: Trello card “Sprint 1: Day 1 - Project planning & Setup”, showing the user story, all members, the “Good” label and the activity log.*
 
 ## Reflection
 
 <div class="reflection" markdown="1">
 
-**What.** Our stories came from the people who use or manage the system: the customer, the admin, the developer, the QA tester and our supervisor. Each story was split into tasks with owners. In the Core product catalog story, five tasks covered the data model, sample data, API endpoints, filtering and unit tests. As Frontend Designer I worked on turning these stories into screens a customer and an admin can use.
+**What.** Our stories came from the people who use or manage the system: the customer, the admin, the developer, the QA tester and our supervisor. Each story was split into tasks with owners. In the Core product catalog story, five tasks covered the data model, sample data, API endpoints, filtering and unit tests. My own tasks sat on the data and testing side of the stories: the fetching and filtering API endpoints for the catalogue, and the order-creation success step of the payment flow, as well as testing and editing.
 
 **So what.** Writing “As a customer, I want to see the price, size and picture” made me design the product page around what a customer needs in order to decide, not around what looked good. Splitting the story into five tasks let us work in parallel, but it also showed me that a story is only finished when the pieces fit together, which is why unit testing was a task of its own. Some of our early stories, such as the repository setup, were technical and did not describe value to a user, so I now see that every story should still state who benefits and why.
 

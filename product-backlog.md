@@ -12,6 +12,8 @@ The product backlog is the prioritised list of all the work the product needs. I
 
 ## Evidence
 
+The table lists the backlog items in priority order. Every item has now been moved to **Sprint: Completed** on our Trello board (Figure 4), which shows 64 completed cards and nothing left in the Product Backlog or In Progress lists. We moved many cards in bulk at the end because we often forgot to update them as we finished (explained in the [Sprint Backlog](/sprint-backlog)).
+
 <!-- CHECK: compare this table with your 19 Product Backlog cards on Trello and adjust names or priorities. -->
 
 | Priority | Backlog item | Linked story | Why this priority |
@@ -48,16 +50,16 @@ The product backlog is the prioritised list of all the work the product needs. I
 | Should | Apply the department’s red colour to the system | Story 23 | Lecturer feedback on 27 October; aligns with the department’s identity |
 | Must | Shorten and rehearse the presentation to fit 3 minutes | n/a | Lecturer feedback on 27 October |
 
-![Item Hive Trello board showing the Product Backlog, Sprint In Progress and Sprint Completed lists](/images/trello-board-full.png)
-*Figure 3: The Item Hive Trello board: Product Backlog (19 cards), Sprint: In Progress (5) and Sprint: Completed (40).*
+![Item Hive Trello board showing Product Backlog 0, Sprint In Progress 0 and Sprint Completed 64](/images/trello-board-final.png)
+*Figure 4: The Item Hive Trello board at the end of the project: Product Backlog (0), Sprint: In Progress (0) and Sprint: Completed (64).*
 
 ## Reflection
 
 <div class="reflection" markdown="1">
 
-**What.** The backlog holds 19 items, ordered by value to the system and by dependency: the catalogue, authentication and ordering first, then the admin features and expansion, and finally testing, deployment and documentation.
+**What.** Our product backlog grew into a list of work items ordered by value to the system and by dependency: the catalogue, authentication and ordering first, then the admin features and expansion, and finally testing, deployment and documentation.
 
-**So what.** Our priorities changed as we learned more. Sprint 1 was planning, setup and the core catalogue. Later sprints added authentication, order creation, the admin dashboard and the expansion model. In September and October the backlog moved toward advanced customisation, Spring Security debugging, deploying the frontend on Vercel and the backend on Render, analytics widgets and end-to-end testing, followed by regression, acceptance, deployment and documentation. After our presentation on 27 October, new items came straight from the lecturer’s feedback: apply the department’s red colour and fit the presentation into 3 minutes. Supervisor feedback on the frontend and the Brand Guide also changed what we worked on next. I learned that a backlog is a living list and that ordering it takes judgement, because everything feels important when you are close to the work. I also see that our backlog cards read like planned sprint days, and a stronger backlog would carry priority labels so the reason for the order is visible.
+**So what.** Our priorities changed as we learned more. Sprint 1 was planning, setup and the core catalogue. Later sprints added authentication, order creation, the admin dashboard and the expansion model. In September and October the backlog moved toward advanced customisation, Spring Security debugging, deploying the frontend on Vercel and the backend on Render, analytics widgets and end-to-end testing, followed by regression, acceptance, deployment and documentation. After our presentation on 27 October, new items came straight from the lecturer’s feedback: apply the department’s red colour and fit the presentation into 3 minutes. Supervisor feedback on the frontend and the Brand Guide also changed what we worked on next. I learned that a backlog is a living list and that ordering it takes judgement, because everything feels important when you are close to the work. Our backlog cards were written as planned sprint days, and a stronger backlog would also carry priority labels so the reason for the order is visible. At the end of the project all cards are in Completed, which shows the full scope was delivered.
 
 **Now what.** I would add Must, Should and Could labels on Trello and hold a short backlog refinement before every sprint.
 
