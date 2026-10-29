@@ -1,0 +1,42 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#14213d;--orange:#e8710a;--ink:#1f2937;--mute:#64748b;--line:#e2e8f0;--soft:#f1f5f9}
+body{font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);background:#f4f6fb;line-height:1.75;font-size:16.5px}
+h1,h2,h3{font-family:Fraunces,Georgia,serif;color:var(--navy);border-bottom:0;line-height:1.25}
+h1{font-size:2.3rem;margin:.6em 0 .7em}
+h1::after{content:"";display:block;width:70px;height:5px;border-radius:4px;background:var(--orange);margin-top:12px}
+h3{font-size:1.3rem;margin-top:2em;padding-left:12px;border-left:5px solid var(--orange)}
+h2#evidence,h2#reflection{display:inline-block;font-family:Inter,sans-serif;font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--navy);background:#dbeafe;padding:5px 16px;border-radius:999px;margin:36px 0 8px}
+h2#reflection{background:var(--orange);color:#fff}
+h2{margin-top:1.6em}
+a{color:#0b5cad;text-decoration:none}a:hover{color:var(--orange);text-decoration:underline}
+table{border-collapse:separate;border-spacing:0;width:100%;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;box-shadow:0 2px 12px rgba(20,33,61,.06);margin:16px 0;font-size:15px}
+th{background:#dbeafe;color:var(--navy);text-align:left;padding:10px 14px;font-weight:600}
+td{padding:10px 14px;border-top:1px solid var(--line);vertical-align:top}
+tr:nth-child(even) td{background:#f8fafc}
+img{max-width:100%;border-radius:12px;border:1px solid var(--line);box-shadow:0 4px 18px rgba(20,33,61,.1);margin:10px 0 2px;display:block}
+img + em{display:block;color:var(--mute);font-size:14px;margin:6px 0 20px}
+details{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 18px;margin:10px 0;box-shadow:0 2px 10px rgba(20,33,61,.05)}
+summary{cursor:pointer;font-weight:600;color:var(--navy)}
+.reflection{background:#fff;border-left:6px solid var(--orange);border-radius:14px;padding:10px 28px;box-shadow:0 4px 18px rgba(20,33,61,.08);margin:12px 0 28px}
+.reflection strong:first-child{color:var(--orange)}
+.wil-nav{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 26px}
+.wil-nav a{background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 15px;font-size:14px;font-weight:500;color:var(--navy);box-shadow:0 1px 4px rgba(20,33,61,.06)}
+.wil-nav a:hover{background:var(--orange);border-color:var(--orange);color:#fff;text-decoration:none}
+.wil-hero{background:linear-gradient(135deg,#f2f8ff 0%,#d6e8ff 100%);color:var(--navy);border:1px solid #bcd7f7;border-radius:20px;padding:44px 36px;margin:10px 0 28px;box-shadow:0 8px 24px rgba(37,99,235,.12)}
+.wil-hero h1{color:var(--navy);margin:.1em 0 .3em;font-size:2.6rem;border-bottom:0!important}
+.wil-hero p{color:#334155;max-width:60ch;margin:0 0 14px}
+.wil-hero .eyebrow{color:#c2570a;font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:.78rem}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chips span{background:#fff;border:1px solid #bcd7f7;color:var(--navy);border-radius:999px;padding:5px 14px;font-size:14px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:16px 0 30px}
+.card{display:block;background:#fff;border:1px solid var(--line);border-top:5px solid var(--orange);border-radius:14px;padding:18px;color:var(--ink);box-shadow:0 3px 14px rgba(20,33,61,.07);transition:transform .15s,box-shadow .15s}
+.card:hover{transform:translateY(-4px);box-shadow:0 10px 26px rgba(20,33,61,.15);text-decoration:none;color:var(--ink)}
+.card .n{display:inline-block;width:30px;height:30px;line-height:30px;text-align:center;border-radius:50%;background:#dbeafe;color:var(--navy);font-weight:700;font-size:14px;margin-bottom:8px}
+.card strong{display:block;color:var(--navy);font-size:1.05rem}
+.card small{color:var(--mute);font-size:14px;line-height:1.4;display:block;margin-top:4px}
+hr{border:0;height:1px;background:var(--line);margin:34px 0 18px}
+@media (max-width:700px){table{display:block;overflow-x:auto}.wil-hero{padding:28px 20px}.wil-hero h1{font-size:2rem}h1{font-size:1.8rem}}
+@media (prefers-reduced-motion:reduce){.card{transition:none}}
+</style>
